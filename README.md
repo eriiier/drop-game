@@ -1,4 +1,5 @@
-# firstπGame
+# firstGame
+Programming my first game using instructions on the lidGDX website. For more information click here:
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 

@@ -1,5 +1,7 @@
 # firstGame
-Programming my first game using instructions on the lidGDX website. For more information click here:
+Programming my first game using instructions on the lidGDX website. For more information click here: https://libgdx.com/wiki/start/a-simple-game#prerequisites
+
+For additional information have a look at the following:
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
